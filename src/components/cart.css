@@ -1,0 +1,76 @@
+.d{
+    display: inline;
+}
+.title{
+    width: 200px;
+}
+
+.name{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.price{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.count{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.total{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.del{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.ta{
+    text-align: center;
+}
+
+.pt{
+    padding-top: 5%;
+
+}
+.pb{
+    padding-top: 4%;
+
+}
+.b{
+    border: 1px solid black;
+}
+.mt{
+    margin-top: 5px;
+}
+.t{
+    font-weight: bold;
+}
+.w2{
+    width: 200px;
+    
+}
+.wi{
+    width: 200px;
+    
+    
+}
+.wn{
+    width: 289px;
+    
+
+}
+.wp{
+    width: 150px;
+    padding: 0;
+}
+.h{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.mt{
+    margin-top: 20px;
+    padding: 0px;
+    margin-bottom: 0;
+}
